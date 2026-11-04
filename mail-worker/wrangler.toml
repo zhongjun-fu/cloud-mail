@@ -1,4 +1,5 @@
-name = "cloud-mail"
+# mail-worker/wrangler.toml
+name = 'cloud-mail-julian'
 main = "src/index.js"
 compatibility_date = "2025-06-04"
 keep_vars = true
